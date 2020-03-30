@@ -1,0 +1,10 @@
+ {
+	"music_disc.chirp": {
+    "replace": "true",
+		"stream": "true",
+    "sounds": [
+ 			"records/chirp"
+ 		],
+ 		"subtitle": "Celeste OST"
+  }
+ }
