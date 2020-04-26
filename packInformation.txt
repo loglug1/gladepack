@@ -1,0 +1,59 @@
+Gladepack Resource Pack
+Created and Compiled By The Gladecraft Community
+
+   This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
+   Gladecraft server. (This text document is not used inside of the Minecraft game.)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Added Resource Packs
+ 1. Enchantment Textures Resource Pack 1.15.2 by Leckaschmecka
+ ----- https://resource-pack.com/enchantment-textures-resource-pack-1-15/ -----
+
+ 2. Vanilla Tweaks by Xisumavoid
+ ----- https://vanillatweaks.net/picker/resource-packs/ -----
+   a. List of Tweaks
+	-Red Iron Golem Flowers
+	-Alternate Particles
+	-Variated Bookshelves
+	-Quieter Ghasts
+	-Quieter Minecarts
+	-Quieter Nether Portals
+	-Age 25 Kelp
+	-Sticky Piston Sides
+	-Directional Hoppers
+	-Diminishing Tools
+	-Better Observers
+	-Brewing Guide
+	-Lower Shield
+	-Ping Color Indicator
+	-Rainbow Experience
+
+Custom Textures
+ 1. Beds
+	-Black Bed - Albedo from Overlord
+	-Blue - Juvia Lockser from Fairy Tail
+	-Brown - Rin Tohsaka from Fate: Stay Night
+	-Cyan - Rem from Re:Zero
+	-Gray Bed - 2B from NieR: Automata
+	-Green - Palutena from Kid Icarus
+	-Light Blue - Aqua from Konosuba
+	-Light Gray - Original Character
+	-Lime - 
+	-Magenta - ??? from ???
+	-Orange - Saber from Fate: Grand Order
+	-Pink - Zelda from A Link Between Worlds
+	-Purple - Nozomi Kaminashi from Keijo!!!!!!!
+	-Red - Zero Two from Darling in the Franxx
+	-White - Emilia from Re:Zero
+	-Yellow - Yang from RWBY
+ 2. Music Records
+ 3. Paintings
+ 4. Splash Texts
+
+
+
+
+
+
+
