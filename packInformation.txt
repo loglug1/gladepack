@@ -9,6 +9,7 @@ Created and Compiled By The Gladecraft Community
 Added Resource Packs
  1. Enchantment Textures Resource Pack 1.15.2 by Leckaschmecka
  ----- https://resource-pack.com/enchantment-textures-resource-pack-1-15/ -----
+	Note: This aspect of the pack only works when running an Optifine version of Minecraft.
 
  2. Vanilla Tweaks by Xisumavoid
  ----- https://vanillatweaks.net/picker/resource-packs/ -----
