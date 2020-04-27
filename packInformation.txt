@@ -54,11 +54,78 @@ Custom Textures
 	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
 	-Chirp - Celeste OST by Lena Raine
 	-Far - 
-	-
+	-Mall -
+	-Mellohi -
+	-Pigstep -
+	-Stal -
+	-Strad - Cruel Angel's Thesis by Yoko Takahashi
+	-Wait - Super Mario Galaxy OST by Mahito Yokata
+	-Ward -
  3. Paintings
+ 	-Kebab (1x1) - Korok and Link Chibi
+	-Aztec (1x1) - 
+	-Alban (1x1) - 
+	-Aztec2 (1x1) - 
+	-Bomb (1x1) - 
+	-Plant (1x1) - 
+	-Wasteland (1x1) - 
+	-Graham (1x2) - Jiggle Physics
+	-Wanderer (1x2) - Zero Two in the Franxx
+	-Pool (2x1) - Mikasa Ackerman Combat
+	-Courbet (2x1) - Celeste Chapter 1 Complete 
+	-Sunset (2x1) - Re:Zero Bridge Scene 
+	-Sea (2x1) - 
+	-Creebet (2x1) - 
+	-Match (2x2) - 
+	-Bust (2x2) - 
+	-Stage (2x2) - 
+	-Void (2x2) - 
+	-Skull and Roses (2x2) - 
+	-Wither (2x2) - 
+	-Fighters (4x2) - Camping with the Boys
+	-Skeleton (4x3) - 
+	-Donkey Kong (4x3) - 
+	-Pointer (4x4) - 
+	-Pigscene (4x4) - 
+	-Burning Skull (4x4) -
+
  4. Splash Texts
-
-
+	-Gregor, my largest son
+	-Spaghetti, again?
+	-Mechahitler
+	-Magnets.
+	-Bees.
+	-Boat People?!
+	-F-R-E-E that spells free
+	-Is it strawberry pancake time?
+	-So I was sitting in the back seat of this car...
+	-Boobs in ma mouf
+	-Cam's World, Season 2. Coming Soon?
+	-Go Beyond, Plus Ultra!
+	-Nice Cock Bro
+	-Hiiiyaaaah! Hyaaah! Hyeeh! Hiiyaah!
+	-Hey! Listen!
+	-These are confusing times...
+	-Try Terraria!
+	-Why does my Roblox game look different?
+	-Here I sit, Tired and dull, Only to load the world below, Shocking with fright, 
+	-A vile sight, Let me in, I beseeched, This site can't be reached.
+	-/give @a hugs 64
+	-/kill @e
+	-The Brunch Boys!
+	-ECH-SPLO-SHUN!
+	-Arson! Arson! Arson!
+	-The Corner of the Oven...
+	-It's called hentai and it's art
+	-Dungeons and Daddies
+	-Dick Mommy?
+	-(╯ ͠° ͟ʖ ͡°)╯┻━┻
+	-¯\_(ツ)_/¯
+	-( • )( • )ԅ(≖⌣≖ԅ)
+	-Titanium White Octane?!
+	-Username: Admin, Password: Password
+	-Wait this isn't google?
+	-Starbits! Starbits!
 
 
 
