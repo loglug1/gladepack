@@ -39,7 +39,7 @@ Custom Textures
 	-Green - Palutena from Kid Icarus
 	-Light Blue - Aqua from Konosuba
 	-Light Gray - Original Character
-	-Lime - 
+	-Lime - Original Character
 	-Magenta - ??? from ???
 	-Orange - Saber from Fate: Grand Order
 	-Pink - Zelda from A Link Between Worlds
@@ -48,6 +48,13 @@ Custom Textures
 	-White - Emilia from Re:Zero
 	-Yellow - Yang from RWBY
  2. Music Records
+ 	-11 - 
+	-13 - English Sailor Moon Intro by Andy Heyward
+	-Blocks - Barricades by Hiroyuki Sawano
+	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
+	-Chirp - Celeste OST by Lena Raine
+	-Far - 
+	-
  3. Paintings
  4. Splash Texts
 
