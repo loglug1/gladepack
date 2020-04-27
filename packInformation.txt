@@ -14,28 +14,28 @@ Added Resource Packs
  2. Vanilla Tweaks by Xisumavoid
  ----- https://vanillatweaks.net/picker/resource-packs/ -----
    a. List of Tweaks
-	-Red Iron Golem Flowers
-	-Alternate Particles
-	-Variated Bookshelves
-	-Quieter Ghasts
-	-Quieter Minecarts
-	-Quieter Nether Portals
 	-Age 25 Kelp
-	-Sticky Piston Sides
-	-Directional Hoppers
-	-Diminishing Tools
+	-Alternate Particles
 	-Better Observers
 	-Brewing Guide
+	-Diminishing Tools
+	-Directional Hoppers
 	-Lower Shield
 	-Ping Color Indicator
 	-Rainbow Experience
+	-Red Iron Golem Flowers
+	-Sticky Piston Sides
+	-Quieter Ghasts
+	-Quieter Minecarts
+	-Quieter Nether Portals
+	-Variated Bookshelves
 
 Custom Textures
  1. Beds
 	-Black Bed - Albedo from Overlord
 	-Blue - Juvia Lockser from Fairy Tail
 	-Brown - Rin Tohsaka from Fate: Stay Night
-	-Cyan - Rem from Re:Zero
+	-Cyan - Rem from Re:ZERO
 	-Gray Bed - 2B from NieR: Automata
 	-Green - Palutena from Kid Icarus
 	-Light Blue - Aqua from Konosuba
@@ -63,32 +63,32 @@ Custom Textures
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
 	-Ward -
  3. Paintings
- 	-Kebab (1x1) - Korok and Link Chibi
-	-Aztec (1x1) - Cool Crab
 	-Alban (1x1) - 
+	-Aztec (1x1) - Cool Crab
 	-Aztec2 (1x1) - 
 	-Bomb (1x1) - 
+ 	-Kebab (1x1) - Korok and Link Chibi
 	-Plant (1x1) - 
 	-Wasteland (1x1) - 
 	-Graham (1x2) - Jiggle Physics
 	-Wanderer (1x2) - Zero Two in the Franxx
-	-Pool (2x1) - Mikasa Ackerman Combat
-	-Courbet (2x1) - Celeste Chapter 1 Complete 
-	-Sunset (2x1) - Re:Zero Bridge Scene 
-	-Sea (2x1) - 
+	-Courbet (2x1) - Celeste Chapter 1 Complete
 	-Creebet (2x1) - 
-	-Match (2x2) - 
+	-Pool (2x1) - Mikasa Ackerman Combat
+	-Sea (2x1) -  
+	-Sunset (2x1) - Re:ZERO Bridge Scene 
 	-Bust (2x2) - 
+	-Match (2x2) - 
+	-Skull and Roses (2x2) - 
 	-Stage (2x2) - 
 	-Void (2x2) - 
-	-Skull and Roses (2x2) - 
 	-Wither (2x2) - 
 	-Fighters (4x2) - Camping with the Boys
-	-Skeleton (4x3) - 
 	-Donkey Kong (4x3) - 
-	-Pointer (4x4) - 
-	-Pigscene (4x4) - 
+	-Skeleton (4x3) - 
 	-Burning Skull (4x4) -
+	-Pigscene (4x4) - 
+	-Pointer (4x4) - 
 
  4. Splash Texts
 	-Gregor, my largest son
@@ -127,8 +127,3 @@ Custom Textures
 	-Username: Admin, Password: Password
 	-Wait this isn't google?
 	-Starbits! Starbits!
-
-
-
-
-
