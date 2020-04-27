@@ -63,7 +63,7 @@ Custom Textures
 	-Ward -
  3. Paintings
  	-Kebab (1x1) - Korok and Link Chibi
-	-Aztec (1x1) - 
+	-Aztec (1x1) - Cool Crab
 	-Alban (1x1) - 
 	-Aztec2 (1x1) - 
 	-Bomb (1x1) - 
