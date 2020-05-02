@@ -75,7 +75,7 @@ Custom Textures
 	-Pool (2x1) - Mikasa Ackerman Combat
 	-Courbet (2x1) - Celeste Chapter 1 Complete 
 	-Sunset (2x1) - Re:Zero Bridge Scene 
-	-Sea (2x1) - 
+	-Sea (2x1) - Nova Skin Wallpaper Render
 	-Creebet (2x1) - 
 	-Match (2x2) - 
 	-Bust (2x2) - 
@@ -127,8 +127,3 @@ Custom Textures
 	-Username: Admin, Password: Password
 	-Wait this isn't google?
 	-Starbits! Starbits!
-
-
-
-
-
