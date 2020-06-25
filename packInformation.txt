@@ -40,8 +40,17 @@ Added Resource Packs
 	-Quieter Nether Portals
 	-Variated Bookshelves
 
-Custom Textures
- 1. Beds
+Custom Textures and Sounds
+ 1. Ambience Music
+    a. Creative
+    b. End
+    c. Game
+    d. Menu
+    e. Nether
+    f. Water
+       -Axolotl - Zora's Domain from The Legend of Zelda: Breath of the Wild
+       -Dragon Fish - Dire Dire Docks from Super Mario 64
+ 2. Beds
 	-Black Bed - Albedo from Overlord
 	-Blue - Juvia Lockser from Fairy Tail
 	-Brown - Rin Tohsaka from Fate: Stay Night
@@ -58,7 +67,7 @@ Custom Textures
 	-Red - Zero Two from Darling in the Franxx
 	-White - Emilia from Re:ZERO
 	-Yellow - Yang from RWBY
- 2. Music Records
+ 3. Music Records
  	-11 - Corruption Theme from Terraria by Re-Logic
 	-13 - English Sailor Moon Intro by Andy Heyward
 	-Blocks - Barricades by Hiroyuki Sawano
@@ -72,7 +81,7 @@ Custom Textures
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
 	-Ward -
- 3. Paintings
+ 4. Paintings
 	-Alban (1x1) - 
 	-Aztec (1x1) - Cool Crab
 	-Aztec2 (1x1) - 
@@ -100,7 +109,7 @@ Custom Textures
 	-Pigscene (4x4) - 
 	-Pointer (4x4) - 
 
- 4. Splash Texts
+ 5. Splash Texts
 	-Gregor, my largest son
 	-Spaghetti, again?
 	-Mechahitler
@@ -351,3 +360,44 @@ Custom Textures
 	-Clear Computer Screen Advancement Project
 	-Be A invisible computer screen and people look at you
 	-My favorite food is the ground...dirt.
+	-Have you heard of Jesus? Well even he couldn't dp as much as flex tape apparently
+	-*slaps on flex tape*
+	-You've done half a job and you got a full smile!
+	-*dips drill in flex seal*
+	-Animatronic Elon Musk Gundam!
+	-Flex Tape II: The Flexening
+	-*Inhuman screech* *smashes piggy bank with bat*
+	-He's sniffed too much flex glue and all he can see are Martians!
+	-*tapes brick onto door frame*
+	-I'll take your entire stock!
+	-Chernobyl vibe
+	-What kind of fish is this? *points to squash*
+	-Nice window I guess.. IF YOU WANNA DIE FROM FUCKING EXPOSURE
+	-THAT'S ALOT OF DAMAGE
+	-Avengers Assemble!
+	-Part Falcon! Part Bat! Part Hornet! Just like Cletus described!
+	-Loo-near-Eyece
+	-High-pour
+	-Pie-row-foxx69
+	-Noe-Noe-men-see
+	-Eye-Eye-moon
+	-lugloog
+	-Kevin!
+	-Itadaki! Seieki ♥
+	-Femboy Hooters!
+	-Mia Malkova!
+	-Mia Khalifia!
+	-Lana Rhoades!
+	-Angela White!
+	-*train horn* SHUT THE FUCK UP
+	-America... the only free country in the world, except Denmark and a few others
+	-Gotta be vitamins in there somewhere!
+	-Googly eyes on Bush's Baked Beans?!
+	-Don't forget to sign your Wrongful Death Waiver!
+	-HYEAH! SPIRIT OF THE MUSHROOM!
+	-Walter white but boring!
+	-Adolf Hilter: Violent and Horny!
+	-big cat go brrrr!
+	-Japanese Maid Cafe - 2 Essentials: Tits and Waffles
+	-That's not a camel! That's my wife!
+	-Angry and Orange
