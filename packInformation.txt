@@ -89,7 +89,7 @@ Custom Textures and Sounds
 	-Brown - Rin Tohsaka from Fate: Stay Night
 	-Cyan - Rem from Re:ZERO
 	-Gray Bed - 2B from NieR: Automata
-	-Green - Palutena from Kid Icarus
+	-Green - Formidable from Azur Lane
 	-Light Blue - Aqua from Konosuba
 	-Light Gray - Original Character
 	-Lime - Original Character
