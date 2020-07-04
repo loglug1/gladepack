@@ -14,6 +14,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	LunarIce
 	nonomense
 	FL_CL
+	Character39
 	
 ---------------------------------------------------------------------------------------------------------------------------
 Added Resource Packs
@@ -110,7 +111,7 @@ Custom Textures and Sounds
 	-Mall -
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
 	-Pigstep -
-	-Stal -
+	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
 	-Ward -
