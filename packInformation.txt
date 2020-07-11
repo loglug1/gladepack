@@ -106,11 +106,11 @@ Custom Textures and Sounds
 	-13 - English Sailor Moon Intro by Andy Heyward
 	-Blocks - Barricades by Hiroyuki Sawano
 	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
-	-Chirp - Celeste OST by Lena Raine
+	-Chirp - Fortunate Son by Creedence Clearwater Revival
 	-Far - 
 	-Mall -
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
-	-Pigstep - Fortunate Son by Creedence Clearwater Revival
+	-Pigstep - 
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
