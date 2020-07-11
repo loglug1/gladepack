@@ -107,10 +107,10 @@ Custom Textures and Sounds
 	-Blocks - Barricades by Hiroyuki Sawano
 	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
 	-Chirp - Celeste OST by Lena Raine
-	-Far - Fortunate Son by Creedence Clearwater Revival
+	-Far - 
 	-Mall -
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
-	-Pigstep -
+	-Pigstep - Fortunate Son by Creedence Clearwater Revival
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
@@ -127,7 +127,7 @@ Custom Textures and Sounds
 	-Wanderer (1x2) - Zero Two in the Franxx
 	-Courbet (2x1) - Celeste Chapter 1 Complete
 	-Creebet (2x1) - 
-	-Pool (2x1) - Mikasa Ackerman Combat
+	-Pool (2x1) - Gladecraft 1 Scenery
 	-Sea (2x1) -  
 	-Sunset (2x1) - Re:ZERO Bridge Scene 
 	-Bust (2x2) - 
@@ -450,3 +450,12 @@ Custom Textures and Sounds
 	-That's not Gandalf. See him? That's not him
 	-The Fatal Half-Inch!
 	-Reptoid 1, Reptoid 2
+	-Tony Gunk!
+	-What if I'm the Green Ninja?
+	-Ninjago!
+	-Sonic High School!
+	-pog
+	-pogchamp
+	-Is that No-kun?!
+	-Disrespectful Kohai!
+	-Jared is dumb
