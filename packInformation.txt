@@ -1,4 +1,4 @@
-Gladepack Resource Pack
+Gladepack Resource Pack v0.4.0 (2020-07-12)
 Created and Compiled By The Gladecraft Community
 
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
@@ -31,6 +31,7 @@ Added Resource Packs
 	-Brewing Guide
 	-Diminishing Tools
 	-Directional Hoppers
+	-HoneyStages
 	-Lower Shield
 	-Ping Color Indicator
 	-Rainbow Experience
@@ -104,17 +105,17 @@ Custom Textures and Sounds
  3. Music Records
  	-11 - Corruption Theme from Terraria by Re-Logic
 	-13 - English Sailor Moon Intro by Andy Heyward
-	-Blocks - Barricades by Hiroyuki Sawano
+	-Blocks - Twilight Princess Symphonic Movement by Kosuke Yamashita, Chad Seiter, and Orchestra Nova San Diego
 	-Cat -  Shinzou Wo Sasageyo by Linked Horizon
 	-Chirp - Fortunate Son by Creedence Clearwater Revival
-	-Far - 
-	-Mall -
+	-Far - //Reserved by Zack//
+	-Mall - //Reserved by Brannan//
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
 	-Pigstep - 
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
-	-Ward -
+	-Ward - //Reserved by Erwin//
  4. Paintings
 	-Alban (1x1) - Bear
 	-Aztec (1x1) - Cool Crab
