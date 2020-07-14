@@ -111,7 +111,7 @@ Custom Textures and Sounds
 	-Far - //Reserved by Zack//
 	-Mall - //Reserved by Brannan//
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
-	-Pigstep - 
+	-Pigstep - PigFire (Pigstep x Bonfire) Remix by ThatOneGingerFromSP
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
