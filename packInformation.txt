@@ -1,4 +1,4 @@
-Gladepack Resource Pack v0.4.0 (2020-07-12)
+Gladepack Resource Pack Safe For Work v0.4.0 (2020-07-12)
 Created and Compiled By The Gladecraft Community
 
    This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack for the
@@ -86,22 +86,7 @@ Custom Textures and Sounds
 	-Dragon Fish - Dire Dire Docks from Super Mario 64
 	-Shuniji - 
  2. Beds
-	-Black Bed - Albedo from Overlord
-	-Blue - Juvia Lockser from Fairy Tail
-	-Brown - Rin Tohsaka from Fate: Stay Night
-	-Cyan - Rem from Re:ZERO
-	-Gray Bed - 2B from NieR: Automata
-	-Green - Formidable from Azur Lane
-	-Light Blue - Aqua from Konosuba
-	-Light Gray - Original Character
-	-Lime - Original Character
-	-Magenta - Senjougahara Hitagi from Bakemonogatari
-	-Orange - Saber from Fate: Grand Order
-	-Pink - Zelda from A Link Between Worlds
-	-Purple - Nozomi Kaminashi from Keijo!!!!!!!
-	-Red - Zero Two from Darling in the Franxx
-	-White - Emilia from Re:ZERO
-	-Yellow - Yang from RWBY
+	-Removed in Safe for Work Edition
  3. Music Records
  	-11 - Corruption Theme from Terraria by Re-Logic
 	-13 - English Sailor Moon Intro by Andy Heyward
@@ -111,7 +96,7 @@ Custom Textures and Sounds
 	-Far - //Reserved by Zack//
 	-Mall - //Reserved by Brannan//
 	-Mellohi - Skyrim Daytime Ambience by Jeremy Soule
-	-Pigstep - PigFire (Pigstep x Bonfire) Remix by ThatOneGingerFromSP
+	-Pigstep - 
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
@@ -119,12 +104,12 @@ Custom Textures and Sounds
  4. Paintings
 	-Alban (1x1) - Bear
 	-Aztec (1x1) - Cool Crab
-	-Aztec2 (1x1) - Nice Cock
+	-Aztec2 (1x1) - Removed in Safe for Work Edition
 	-Bomb (1x1) - 
  	-Kebab (1x1) - Korok and Link Chibi
 	-Plant (1x1) - 
 	-Wasteland (1x1) - 
-	-Graham (1x2) - Jiggle Physics
+	-Graham (1x2) - Removed in Safe for Work Edition
 	-Wanderer (1x2) - Zero Two in the Franxx
 	-Courbet (2x1) - Celeste Chapter 1 Complete
 	-Creebet (2x1) - 
