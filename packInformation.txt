@@ -15,6 +15,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	nonomense
 	FL_CL
 	Character39
+	o0Icy0o
 	
 ---------------------------------------------------------------------------------------------------------------------------
 Added Resource Packs
@@ -115,7 +116,7 @@ Custom Textures and Sounds
 	-Stal - Crucifixus by Coro Musicanova and Fabrizio Barchi
 	-Strad - Cruel Angel's Thesis by Yoko Takahashi
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
-	-Ward - //Reserved by Erwin//
+	-Ward - The Devourer of Gods (Terraria Calamity Mod OST)
  4. Paintings
 	-Alban (1x1) - Bear
 	-Aztec (1x1) - Cool Crab
