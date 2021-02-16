@@ -16,6 +16,7 @@ Credits and Thank You's (by Minecraft Java Edition Username)
 	FL_CL
 	Character39
 	o0Icy0o
+	Echwo
 	
 ---------------------------------------------------------------------------------------------------------------------------
 Added Resource Packs
@@ -95,7 +96,7 @@ Custom Textures and Sounds
 	-Green - Formidable from Azur Lane
 	-Light Blue - Aqua from Konosuba
 	-Light Gray - Original Character
-	-Lime - Original Character
+	-Lime - ???
 	-Magenta - Senjougahara Hitagi from Bakemonogatari
 	-Orange - Saber from Fate: Grand Order
 	-Pink - Zelda from A Link Between Worlds
@@ -118,9 +119,9 @@ Custom Textures and Sounds
 	-Wait - Super Mario Galaxy OST by Mahito Yokata
 	-Ward - The Devourer of Gods (Terraria Calamity Mod OST)
  4. Paintings
-	-Alban (1x1) - Bear
+	-Alban (1x1) - Stuffed Animal Gang
 	-Aztec (1x1) - Cool Crab
-	-Aztec2 (1x1) - Nice Cock
+	-Aztec2 (1x1) - Celeste Cover Art
 	-Bomb (1x1) - 
  	-Kebab (1x1) - Korok and Link Chibi
 	-Plant (1x1) - 
@@ -128,9 +129,9 @@ Custom Textures and Sounds
 	-Graham (1x2) - Jiggle Physics
 	-Wanderer (1x2) - Zero Two in the Franxx
 	-Courbet (2x1) - Celeste Chapter 1 Complete
-	-Creebet (2x1) - 
+	-Creebet (2x1) - FFIXV Il Mheg Loading Screen
 	-Pool (2x1) - Gladecraft 1 Scenery
-	-Sea (2x1) -  
+	-Sea (2x1) -  Gladecraft Members Beach Scene
 	-Sunset (2x1) - Re:ZERO Bridge Scene 
 	-Bust (2x2) - 
 	-Match (2x2) - Celeste: Farewell
@@ -139,11 +140,11 @@ Custom Textures and Sounds
 	-Void (2x2) - 
 	-Wither (2x2) - 
 	-Fighters (4x2) - Camping with the Boys
-	-Donkey Kong (4x3) - 
+	-Donkey Kong (4x3) - The Last Supa
 	-Skeleton (4x3) - 
-	-Burning Skull (4x4) -
+	-Burning Skull (4x4) - Celeste Cover Art
 	-Pigscene (4x4) - 
-	-Pointer (4x4) - 
+	-Pointer (4x4) - FFXIV The Kugane
 
  5. Splash Texts
 	-Gregor, my largest son
