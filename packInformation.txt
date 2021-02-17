@@ -89,7 +89,7 @@ Custom Textures and Sounds
 	-Shuniji - 
  2. Beds
 	-Black Bed - Albedo from Overlord
-	-Blue - Juvia Lockser from Fairy Tail
+	-Blue - Tamamo no Mae from Fate: Grand Order
 	-Brown - Rin Tohsaka from Fate: Stay Night
 	-Cyan - Rem from Re:ZERO
 	-Gray Bed - 2B from NieR: Automata
